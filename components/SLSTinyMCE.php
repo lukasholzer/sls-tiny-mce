@@ -76,7 +76,7 @@ class SLSTinyMCE {
         //'separator',
         'bullist', 'numlist',
         //'separator',
-        // 'blockquote',
+        'blockquote',
         // 'justifyleft',
         // 'justifycenter',
         // 'justifyright',
